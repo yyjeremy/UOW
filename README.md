@@ -1,2 +1,2 @@
 # UOW
-UOW PhD Share
+Welcome to share your papers, idea and code here.
