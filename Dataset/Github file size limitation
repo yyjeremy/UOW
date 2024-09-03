@@ -1,0 +1,4 @@
+#https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
+
+#As Github has a 100MB per file limitation, welcome to try to zip the dataset files before you upload the raw dataset file here. 
+#Or try Git Large File Storage # https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage
