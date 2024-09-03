@@ -1,5 +1,5 @@
 # UOW PHD WORKSHOP
-Welcome to share your papers, ideas and code here.
+Welcome to share your papers, ideas and Dataset resources here.
 
 Welcome to try https://www.kaggle.com/
 
