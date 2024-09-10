@@ -1,4 +1,4 @@
-# UOW PHD WORKSHOP
+# UOW Jun Lab PHD WORKSHOP
 Welcome to share your papers, ideas and Dataset resources here.
 
 Welcome to try https://www.kaggle.com/
